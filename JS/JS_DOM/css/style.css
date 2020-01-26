@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+p {
+    font-size: .6em;
+}
+
+.oldprice {
+    color: grey;
+    text-decoration: line-through;
+}
+
+.newprice {
+    color: red;
+}
+
+.price {
+    padding-top: 2em;
+}
+
+.phoneblock {
+    width: 150px;
+    height: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 0 1em;
+}
+
+.phoneblock img {
+    text-align: center;
+}
+
+.name {
+    font-size: .7em;
+    height: 4em;
+}
+
+.imageblock {
+    text-align: center;
+}
+
+.phone_img {
+    width: 50%;
+    height: 60%;
+}
+
+.phonecontainer {
+    width: 800px;
+    display: inline-block;
+}
